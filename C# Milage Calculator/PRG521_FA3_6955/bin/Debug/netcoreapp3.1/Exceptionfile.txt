@@ -1,0 +1,5 @@
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseDecimal(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Convert.ToDecimal(String value)
+   at PRG521_FA3_6955.MEfficiency.btnCalculate_Click(Object sender, EventArgs e) in C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\Mileage Efficiency.cs:line 25

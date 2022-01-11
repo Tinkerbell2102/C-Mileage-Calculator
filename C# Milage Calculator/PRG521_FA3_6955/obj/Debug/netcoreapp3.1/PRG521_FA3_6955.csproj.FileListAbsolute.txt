@@ -1,0 +1,15 @@
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.csprojAssemblyReference.cache
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.MEfficiency.resources
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.csproj.GenerateResource.cache
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.AssemblyInfoInputs.cache
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.AssemblyInfo.cs
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.csproj.CoreCompileInputs.cache
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\bin\Debug\netcoreapp3.1\PRG521_FA3_6955.exe
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\bin\Debug\netcoreapp3.1\PRG521_FA3_6955.deps.json
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\bin\Debug\netcoreapp3.1\PRG521_FA3_6955.runtimeconfig.json
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\bin\Debug\netcoreapp3.1\PRG521_FA3_6955.runtimeconfig.dev.json
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\bin\Debug\netcoreapp3.1\PRG521_FA3_6955.dll
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\bin\Debug\netcoreapp3.1\PRG521_FA3_6955.pdb
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.dll
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.pdb
+C:\Users\lkb01\OneDrive - CTU Career\CTU\2021\Classes\Semester 1\2. Intermediare Programming\Assesments\FA3\PRG521_FA3_6955\PRG521_FA3_6955\obj\Debug\netcoreapp3.1\PRG521_FA3_6955.genruntimeconfig.cache
